@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Toolbox CSS"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: lectures.qmd
+        text: Lectures
+      - href: script.qmd
+        text: R Script
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
