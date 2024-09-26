@@ -13,10 +13,19 @@ website:
       - text: Lectures
         menu:
           - href: lectures-overview.qmd
-          - href:  week_1.qmd
-          - href:  week_2.qmd
-          - href:  week_3.qmd
-          - href: week_4.qmd
+          #- href: week_1.qmd
+          #- href: week_2.qmd
+          #- href: week_3.qmd
+          #- href: week_4.qmd
+          #- href: week_5.qmd
+          #- href: week_6.qmd
+          #- href: week_7.qmd
+          #- href: week_8.qmd
+          #- href: week_9.qmd
+          #- href: week_10.qmd
+          #- href: week_11.qmd
+          #- href: week_12.qmd
+          #- href: week_13.qmd
       - href: script.qmd
         text: R Script
 
