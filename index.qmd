@@ -12,16 +12,16 @@ The course structure consists of one lecture and one workshop per week, providin
 
 ## Course Structure
 
-The course consists of [lectures](lectures.qmd) introducing each week's content and an [R script](script.qmd) that provides hands-on coding examples for the content, including videos of yours truly going through the content. 
+The course consists of [lectures](lectures-overview.qmd) introducing each week's content and an [R script](script.qmd) that provides hands-on coding examples for the content, including videos of yours truly going through the content. 
 
-At the beginning of the course, students are encouraged to form groups based on research interests and general vibes. I require each student group to check in with me to report their progress (even if there's nothing to report -- no progress, no big deal). This does not count towards any grade but rather serves the purpose of me receiving feedback on the learning experience (this is a new course!) and hopefully helps me with providing more appropriate guidance.
+At the beginning of the course, students are encouraged to form groups based on research interests and general vibes. I require each student group to check in with me at the beginning of each week to report their progress (even if there's nothing to report -- no progress, no problem). This does not count towards any grade but rather serves the purpose of me receiving feedback on the learning experience (this is a new course!) -- and will hopefully help me with providing more appropriate guidance.
 
 Here's an overview of the topics covered:
 
 | WEEK | TITLE | CONTENT | INFORMAL TITLE |
 |------|-------|---------|----------------|
-| 1 | WHAT IS CSS? | Housekeeping; Getting to know each other and your research interests; Data management; RStudio stuff; Python environment; Git(?); Scientific Computing | Whatever you want to know about CSS |
-| 2 | New possibilities | REGEX | REGEXES - tame your data |
+| 1 | what is CSS? | Housekeeping; Getting to know each other and your research interests; Data management; RStudio stuff; Python environment; Scientific Computing | Whatever you want to know about CSS |
+| 2 | new possibilities | REGEX | REGEXES - tame your data |
 | 3 | data acquisition I | rvest (R); selenium (Python); APIs | stealing data from websites without them noticing it |
 | 4 | data acquisition II | OCR; OpenAI Whisper | making the computer your transcription servant |
 | 5 | text as data I | bag of words: dictionary, tfidf, ner/pos | basic text analysis |

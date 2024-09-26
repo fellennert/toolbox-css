@@ -1,0 +1,9 @@
+---
+title: "Week 7: Text as Data III"
+---
+
+This lecture answers the following questions:
+
+- How can we go beyond the "bag of words"?
+- What does context tell us about words?
+- … and how is it relevant for social scientists?

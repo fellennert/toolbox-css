@@ -1,0 +1,9 @@
+---
+title: "Week 11: Simulation I"
+---
+
+This lecture answers the following questions:
+
+- Why shall we simulate human behavior in an agent-based fashion?
+- What is its relationship with sociological theory?
+- How can we use it for mechanism-based explanations?

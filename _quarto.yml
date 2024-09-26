@@ -3,13 +3,20 @@ project:
   output-dir: docs
 
 website:
+  page-footer: "Copyright 2024, Felix Lennert ([felix.lennert@uni-leipzig.de](mailto:felix.lennert@uni-leipzig.de))" 
   title: "Toolbox CSS"
   navbar:
+    search: true
     left:
       - href: index.qmd
         text: Home
-      - href: lectures.qmd
-        text: Lectures
+      - text: Lectures
+        menu:
+          - href: lectures-overview.qmd
+          - href:  week_1.qmd
+          - href:  week_2.qmd
+          - href:  week_3.qmd
+          - href: week_4.qmd
       - href: script.qmd
         text: R Script
 

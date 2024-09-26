@@ -1,0 +1,10 @@
+---
+title: "Week 1: What Is Computational Social Science (CSS)?"
+---
+
+This lecture answers the following questions:
+
+- What does the term CSS mean?
+- Which principles underly a new CSS?
+- Which methods does CSS encompass?
+

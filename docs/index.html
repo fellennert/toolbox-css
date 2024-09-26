@@ -92,13 +92,36 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="./index.html" aria-current="page"> 
 <span class="menu-text">Home</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./lectures.html"> 
-<span class="menu-text">Lectures</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-lectures" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Lectures</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-lectures">    
+        <li>
+    <a class="dropdown-item" href="./lectures-overview.html">
+ <span class="dropdown-text">Lectures – Overview</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./week_1.html">
+ <span class="dropdown-text">Week 1: What Is Computational Social Science (CSS)?</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./week_2.html">
+ <span class="dropdown-text">Week 2: New Possibilities</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./week_3.html">
+ <span class="dropdown-text">Week 3: Data Acquisition I</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./week_4.html">
+ <span class="dropdown-text">Week 4: Data Acquisition II</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./script.html"> 
-<span class="menu-text">R script</span></a>
+<span class="menu-text">R Script</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -152,8 +175,8 @@ The course structure consists of one lecture and one workshop per week, providin
 </blockquote>
 <section id="course-structure" class="level2">
 <h2 class="anchored" data-anchor-id="course-structure">Course Structure</h2>
-<p>The course consists of <a href="./lectures.html">lectures</a> introducing each week’s content and an <a href="./script.html">R script</a> that provides hands-on coding examples for the content, including videos of yours truly going through the content.</p>
-<p>At the beginning of the course, students are encouraged to form groups based on research interests and general vibes. I require each student group to check in with me to report their progress (even if there’s nothing to report – no progress, no big deal). This does not count towards any grade but rather serves the purpose of me receiving feedback on the learning experience (this is a new course!) and hopefully helps me with providing more appropriate guidance.</p>
+<p>The course consists of <a href="./lectures-overview.html">lectures</a> introducing each week’s content and an <a href="./script.html">R script</a> that provides hands-on coding examples for the content, including videos of yours truly going through the content.</p>
+<p>At the beginning of the course, students are encouraged to form groups based on research interests and general vibes. I require each student group to check in with me to report their progress (even if there’s nothing to report – no progress, no problem). This does not count towards any grade but rather serves the purpose of me receiving feedback on the learning experience (this is a new course!) and hopefully helps me with providing more appropriate guidance.</p>
 <p>Here’s an overview of the topics covered:</p>
 <table class="table">
 <colgroup>
@@ -671,6 +694,19 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>Copyright 2024, Felix Lennert (<a href="mailto:felix.lennert@uni-leipzig.de">felix.lennert@uni-leipzig.de</a>)</p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 

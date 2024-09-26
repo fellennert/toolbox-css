@@ -1,0 +1,9 @@
+---
+title: "Week 6: Text as Data II"
+---
+
+This lecture answers the following questions:
+
+- What is "Machine Learning"?
+- What are use-cases for unsupervised and supervised ML?
+

@@ -1,0 +1,9 @@
+---
+title: "Week 3: Data Acquisition I"
+---
+
+This lecture answers the following questions:
+
+- How do we acquire digital trace data via web scraping?
+- What are considerations in terms of law and ethics?
+

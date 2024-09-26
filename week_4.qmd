@@ -1,0 +1,9 @@
+---
+title: "Week 4: Data Acquisition II"
+---
+
+This lecture answers the following questions:
+
+- How do we digitize text?
+- How do we digitize speech?
+

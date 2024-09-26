@@ -1,0 +1,9 @@
+---
+title: "Week 10: Geo Data II"
+---
+
+This lecture answers the following questions:
+
+- How do we perform statistical inference on human behavior using spatial data?
+- Which ways exist to get around spatial autocorrelation?
+

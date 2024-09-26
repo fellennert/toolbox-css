@@ -1,0 +1,10 @@
+---
+title: "Week 8: Text as Data VI"
+---
+
+This lecture answers the following questions:
+
+- What's the latest and greatest in Natural Language Processing (NLP)?
+- What do these methods bring to the table?
+- Which requirements do they have?
+

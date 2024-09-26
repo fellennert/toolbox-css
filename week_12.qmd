@@ -1,0 +1,9 @@
+---
+title: "Week 12: Simulation II"
+---
+
+This lecture answers the following questions:
+
+- How can we get to reasonable assumptions for ABMs?
+- Where do these data come from?
+- How can we compare the model outcomes to the real world?

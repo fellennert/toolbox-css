@@ -1,0 +1,10 @@
+---
+title: "Week 5: Text as Data I"
+---
+
+This lecture answers the following questions:
+
+- What do we mean by "text as data"?
+- What do we mean by "bag of words"?
+- Which methods exist more generally?
+- … and what do they measure?
